@@ -13,4 +13,4 @@ canonical: false
 
 Catalán, casi 26 años, periodista e historiador
 
-Un texto ""en negrita" o "en cursiva", e inclusive enlaces con a mí .[cuenta de twitter](https://twitter.com/xaviolivapareja).
+Un texto ""en negrita" o "en cursiva", e inclusive enlaces con a mí [cuenta de twitter](https://twitter.com/xaviolivapareja).
