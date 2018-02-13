@@ -13,5 +13,5 @@ canonical: false
 
 ---
 
-"The eternal apprentice"
+Periodista
 
