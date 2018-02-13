@@ -13,5 +13,5 @@ canonical: false
 
 ---
 
-**Periodista** [cuenta de Twitter](https://twitter.com/miguelangelper).
+**Periodista** [@miguelangelper](https://twitter.com/miguelangelper).
 
