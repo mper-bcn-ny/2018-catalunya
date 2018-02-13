@@ -15,6 +15,8 @@ canonical: false
 
 Alemán, 49 años, periodista y desarrollador. 
 
+Un texto **en negrita** o *en cursiva*, e inclusive enlaces com a mi [cuenta de Twitter](https://www.twitter.com/mvtango). 
+
 
 --
 
