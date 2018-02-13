@@ -18,7 +18,6 @@ Alemán, 49 años, periodista y desarrollador.
 
 --
 
-<iframe width="100%" src="https://www.youtube.com/embed/zUpTJg2EBpw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
