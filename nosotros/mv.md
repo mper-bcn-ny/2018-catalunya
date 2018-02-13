@@ -1,5 +1,5 @@
 ---
-title: Página de Martin Virtel
+title: Martin Virtel
 layout: page
 icon: fa-unlink
 hide: true
