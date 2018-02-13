@@ -9,6 +9,8 @@ canonical: false
 
 # José Accini
 
-Lorem ipsum dolor amet cred tacos viral, lo-fi tbh keffiyeh chambray la croix      bitters hell of. Stumptown normcore succulents marfa portland next level swag af   butcher. Messenger bag sartorial authentic pug chicharrones scenester. Retro       portland intelligentsia salvia paleo blog direct trade.
+<iframe id="datawrapper-chart-p78ah" src="//datawrapper.dwcdn.net/p78ah/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["p78ah"]={},window.datawrapper["p78ah"].embedDeltas={"100":573,"200":478,"300":417,"400":400,"500":400,"700":400,"800":383,"900":383,"1000":383},window.datawrapper["p78ah"].iframe=document.getElementById("datawrapper-chart-p78ah"),window.datawrapper["p78ah"].iframe.style.height=window.datawrapper["p78ah"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["p78ah"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("p78ah"==b)window.datawrapper["p78ah"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 
-Mixtape wolf ramps paleo polaroid enamel pin chia actually unicorn selfies roof    party portland. Cray skateboard fixie, lomo blue bottle helvetica sriracha         gastropub polaroid poutine whatever pitchfork tilde taxidermy. Woke everyday carry jean shorts taiyaki tumeric neutra blog direct trade tumblr put a bird on it +1    wayfarers occupy. Tofu aesthetic XOXO, asymmetrical jianbing raclette polaroid.    Cray twee tumblr, VHS fixie vinyl art party tumeric gluten-free kombucha coloring  book chambray crucifix taxidermy hashtag. Art party offal hell of adaptogen wolf.
+Ecuatoriano de nacimiento y periodista de vocación.
+Licenciado en Comunicación. 24 años.
+Estudiante del Máster de Periodismo de IL3-Universitat de Columbia.
