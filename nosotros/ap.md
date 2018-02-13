@@ -1,5 +1,5 @@
 ---
-title: Página de Abril Phillips
+title: Abril Phillips
 layout: page
 icon: fa-unlink
 hide: true
