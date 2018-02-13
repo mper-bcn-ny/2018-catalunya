@@ -15,7 +15,11 @@ canonical: false
 
 Alemán, 49 años, periodista y desarrollador. 
 
-Un texto **en negrita** o *en cursiva*, e inclusive enlaces com a mi [cuenta de Twitter](https://www.twitter.com/mvtango). 
+Markdown: Un texto **en negrita** o *en cursiva*, e inclusive 
+enlaces com a mi [@mvtango](https://www.twitter.com/mvtango)  . 
+
+HTML: El mismo texto <b>en negrita</b> o <em>en cursiva</em> con enlaces
+<a href="https://www.twitter.com/mvtango">@mvtango</a>.
 
 
 --
