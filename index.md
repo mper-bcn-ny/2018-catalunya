@@ -5,5 +5,6 @@
 layout: home
 title: Inicio
 icon: fa-home
+top: true
 order: 1
 ---
