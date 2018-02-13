@@ -8,4 +8,4 @@ canonical: false
 
 # Hernando Rivera
 
-
+Antofagastino, 25 años, periodista. 
