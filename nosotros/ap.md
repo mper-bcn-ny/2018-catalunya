@@ -18,4 +18,4 @@ Abril Phillips
 Argentina, 26 años, periodista y politóloga.
 
 
-[cuenta de Twitter](https://twitter.com/_braca_?lang=en)
+[Twitter:@_braca_](https://twitter.com/_braca_?lang=en)
