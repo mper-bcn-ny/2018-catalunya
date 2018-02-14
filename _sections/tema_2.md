@@ -1,6 +1,6 @@
 ---
 title: Tema 2
-icon: fa-th
+icon:  fa-question-circle
 order: 2
 ---
 

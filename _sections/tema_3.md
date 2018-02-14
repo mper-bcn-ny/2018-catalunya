@@ -1,6 +1,6 @@
 ---
 title: Tema 3
-icon: fa-user
+icon:  fa-question-circle
 order: 3
 ---
 
