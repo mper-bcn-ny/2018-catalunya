@@ -1,4 +1,4 @@
-# Máster en Periodismo BCN_NZY
+# Máster en Periodismo BCN_NY
 
 Este trabajo fue realizado durante la edición 2018 del máster. El sítio se puede ver aquí:
 
