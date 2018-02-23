@@ -3,7 +3,7 @@ title: Tema 6
 icon:  fa-question-circle
 order: 6
 ---
-** Catalano parlantes en Cataluña con respecto al castellano
+## Catalano parlantes en Cataluña con respecto al castellano
 
 Estudio comparativo del uso del catalán entre los miembros de las familias en cataluña. Cada vez menos padres hablan con sus hijos en Catalán en los hogares de Cataluña.
 
