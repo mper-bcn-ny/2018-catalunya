@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-##Los pensionistas catalanes son los séptimos en el ránking español
+## Los pensionistas catalanes son los séptimos en el ránking español
 
 
 
