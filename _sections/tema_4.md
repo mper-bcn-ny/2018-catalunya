@@ -12,3 +12,20 @@ El sector del transporte aéreo representa el 8% del Producto Interior Bruto (PI
 Vemos el PIB en el gráfico siguiente: 
 
 //www.datawrapper.de/_/5oFXs/ 
+
+El producto interno bruto y el índice de precios al consumidor son dos de los aspectos más importantes de una economía sana. Influyen directamente entre sí, y en su lugar sólo el crecimiento puede compensar los efectos negativos que pueden tener sobre la otra. Vemos a continuación el índice de IPC:
+
+www.//datawrapper.dwcdn.net/u6NST/1/  
+
+
+La evolución en el PIB de Catalunya y de Madrid que muestra el conjunto de bienes y servicios producidos en las comunidades durante los pasados años, es superior en Catalunya a lo largo de todo el periodo. Empieza en 2005 con una diferencia de 10000 millones de euros que se va acortando.
+
+El transporte aéreo, incluido dentro del sector transporte, se ha consolidado en los últimos años como subsector de actividad con entidad propia Nacido y desarrollado como a servicio para las personas de alto poder adquisitivo que utilizan el avión como medio de desplazamiento y como transporte de correo postal urgente, en los años 60, se populariza con la utilización masiva de los aviones a reacción y la aparición de los vuelos transoceánicos de bajo coste. De este modo, contribuye al desarrollo del turismo y a la globalización de la economía. Actualmente, con la presencia mundial de las compañías de bajo coste, la desregulación y la gran densidad de aeropuertos, el sector repercute de manera determinante en otros sectores, como son el turismo, el transporte de mercancías y los viajes profesionales. 
+Desempleo (paro):
+
+www.//datawrapper.dwcdn.net/ExePv/1/      
+
+Infografìa Turismo: https://datawrapper.dwcdn.net/eMUSi/1/ 
+
+La llegada de pasajeros a Madrid de ha reducido en los últimos 12 años, mientras que los arribos a Barcelona se han incrementado. Sin embargo, los turistas que llegan a Barcelona siguen gastando más que los que visitan Madrid.
+Las tasas de desempleo se estudian con la finalidad de conocer su relación con el bienestar de la población por lo tanto al disminuir el desempleo se asume que bajará la pobreza lo cual no cierto en su totalidad pero son conclusiones que se tienden a pensar, por lo tanto se dice que cuando una economía se encuentra en recesión las tasas de desempleo tienden a elevarse esto por que se reduce el ingreso y por tanto la demanda, de modo que la empresas producen y venden menos y a la vez contratan menos personal de aquí su relación con el PIB y la reacción en cadena de los agentes macroeconómicos.
