@@ -4,9 +4,5 @@ icon:  fa-question-circle
 order: 6
 ---
 
-This Jekyll theme lets you build as many of these sections as you want. They live in the _sections folder in your project's root directory. For some examples, see the [GitHub repository](https://github.com/chrisbobbe/jekyll-theme-prologue). Just be sure to add some [frontmatter](https://jekyllrb.com/docs/frontmatter/) to each section.
-
-All sections have titles, which are listed in the site's navigation menu. At the top of each section, the section's title will render by default (e.g., Welcome to Jekyll!). If you want it to show something different (see Intro), add **auto-header: none** to your frontmatter, and add your text in a <h2> tag inside a <header> tag outside the frontmatter. You'll want to give each section an **order** parameter, also in the frontmatter, or it won't know where to put itself and will hide. Icons are from [Font Awesome](http://fontawesome.io/icons/).
-
-You may notice that this section is written in Markdown -- either Markdown or html works!
+<iframe id="datawrapper-chart-OlC9b" src="//datawrapper.dwcdn.net/OlC9b/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["OlC9b"]={},window.datawrapper["OlC9b"].embedDeltas={"100":762,"200":532,"300":471,"400":427,"500":400,"700":400,"800":383,"900":356,"1000":356},window.datawrapper["OlC9b"].iframe=document.getElementById("datawrapper-chart-OlC9b"),window.datawrapper["OlC9b"].iframe.style.height=window.datawrapper["OlC9b"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["OlC9b"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("OlC9b"==b)window.datawrapper["OlC9b"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 
