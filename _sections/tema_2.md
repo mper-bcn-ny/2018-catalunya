@@ -8,7 +8,7 @@ order: 2
 
 **La alta demanda de los estudiantes extranjeros ubica a Catalunya en segunda posición entre las comunidades de España.**
 
-“Catalunya es la segunda comunidad autónoma que recibe más estudiantes extranjeros”.
+Catalunya es la segunda comunidad autónoma que recibe más estudiantes extranjeros.
 
 
 La calidad de las universidades catalanas, certificada por los más importantes rankings internacionales, podría explicar el incremento de la cantidad de extranjeros que vienen a Catalunya a estudiar. 
