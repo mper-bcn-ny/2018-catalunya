@@ -14,12 +14,9 @@ Todo esto se relaciona con los principales índices económicos (PIB, IPC, paro 
 El sector del transporte aéreo representa el 8% del Producto Interior Bruto (PIB) a nivel mundial. En España, según datos de AENA (Aeropuertos Españoles y Navegación Aérea) el sector representa el 7% de su PIB y en 2010 el volumen de negocio de las compañías aéreas españolas fue de 10.000 millones de euros. En Cataluña, según datos de la Asociación de Compañías Españolas de Transporte Aéreo (ACETA), el volumen de negocio generado, de forma directa e indirecta, representa aproximadamente el 6,2% del PIB catalán (2011).
 Vemos el PIB en el gráfico siguiente: 
 
-
-
 El producto interno bruto y el índice de precios al consumidor son dos de los aspectos más importantes de una economía sana. Influyen directamente entre sí, y en su lugar sólo el crecimiento puede compensar los efectos negativos que pueden tener sobre la otra. Vemos a continuación el índice de IPC:
 
-www.//datawrapper.dwcdn.net/u6NST/1/  
-
+<iframe id="datawrapper-chart-u6NST" src="//datawrapper.dwcdn.net/u6NST/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="508"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["u6NST"]={},window.datawrapper["u6NST"].embedDeltas={"100":684,"200":569,"300":552,"400":508,"500":508,"700":508,"800":508,"900":508,"1000":508},window.datawrapper["u6NST"].iframe=document.getElementById("datawrapper-chart-u6NST"),window.datawrapper["u6NST"].iframe.style.height=window.datawrapper["u6NST"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["u6NST"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("u6NST"==b)window.datawrapper["u6NST"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script> 
 
 La evolución en el PIB de Catalunya y de Madrid que muestra el conjunto de bienes y servicios producidos en las comunidades durante los pasados años, es superior en Catalunya a lo largo de todo el periodo. Empieza en 2005 con una diferencia de 10000 millones de euros que se va acortando.
 
