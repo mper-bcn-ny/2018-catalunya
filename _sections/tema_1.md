@@ -1,6 +1,6 @@
 ---
 title: Tema 1
-icon: fa-question-circle
+icon: fa-anchor
 order: 1
 ---
 
