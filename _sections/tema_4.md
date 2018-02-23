@@ -1,5 +1,5 @@
 ---
-title: ##CATALUNYA vs MADRID en cifras
+ ##CATALUNYA vs MADRID en cifras
 
 La afluencia de turismo en barajas lleva siendo mucho superior a el Prat desde hace más de una década, sin embargo han acortado grandemente las distancias en los últimos 5 años. El Prat a crecido a mayor ritmo que Barajas y queda a menos de 200.000 de alcanzarlo. El aeropuerto de Barcelona registró un incremento del 6,8%, mientras que Madrid quedó en el 5,4%. El Aeropuerto de Barcelona -El Prat obtuvo un ascenso del número de pasajeros del 6,8% en los cinco primeros meses del año, hasta los 4.325.970 pasajeros, con lo que experimenta un crecimiento superior a Madrid-Barajas, primero de la lista, que creció un 5,4%, hasta 4.525.608 viajeros. Así la diferencia entre ambos se recorta hasta menos de 200.000 pasajeros.
 La mayor afluencia de turistas en los meses de primavera y verano, clave en la reducción de diferencias entre El Prat y Barajas. El Prat crece más que Barajas en el número de operaciones y el transporte de mercancías.
