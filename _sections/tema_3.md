@@ -4,8 +4,9 @@ icon:  fa-question-circle
 order: 3
 ---
 
-Educación superior e inmigración
-“La alta demanda de los estudiantes extranjeros ubica a Catalunya en segunda posición entre las comunidades de España”.
+## Educación superior e inmigración
+
+**La alta demanda de los estudiantes extranjeros ubica a Catalunya en segunda posición entre las comunidades de España.**
 
 “Catalunya es la segunda comunidad autónoma que recibe más estudiantes extranjeros”.
 
