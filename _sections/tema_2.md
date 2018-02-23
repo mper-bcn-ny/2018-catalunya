@@ -20,6 +20,8 @@ La calidad de las universidades catalanas, certificada por los más importantes 
 <iframe id="datawrapper-chart-p78ah" src="//https://datawrapper.dwcdn.net/HYliU/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["HYliU"]={},window.datawrapper["HYliU/1"].embedDeltas={"100":573,"200":478,"300":417,"400":400,"500":400,"700":400,"800":383,"900":383,"1000":383},window.datawrapper["HYliU"].iframe=document.getElementById("datawrapper-chart-HYliU"),window.datawrapper["HYliU"].iframe.style.height=window.datawrapper["HYliU"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["HYliU"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("HYliU"==b)window.datawrapper["HYliU"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 
 
+
+
 Estas infografías enlazan la alta calidad de la educación en Catalunya con el número de estudiantes extranjeros que ingresan a esta comunidad autónoma. Para justificar esta relación, habrá un segundo gráfico con la posición de algunas universidades catalanas en algunos de los principales rankings universitarios (Shanghai, QS, Webometrics) a nivel mundial.
 
 
